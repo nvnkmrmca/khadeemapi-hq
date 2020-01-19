@@ -2,6 +2,9 @@
   "name": "khadeem-api",
   "version": "1.0.0",
   "description": "api for khadeem app.",
+  "engines": {
+    "node": "10.x"
+  },
   "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
