@@ -5,11 +5,9 @@
   "engines": {
     "node": "10.x"
   },
-  "main": "app/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app/index.js",
-    "build": "webpack"
+    "start": "index.js"
   },
   "author": "Naveen Kumar",
   "license": "ISC",
